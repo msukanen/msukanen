@@ -1,3 +1,3 @@
-Dwelling @ https://scifi.linkpc.net/msukanen
-
-LinkedIn @ https://www.linkedin.com/in/markku-sukanen-301809220/
+# Sites of Appearance
+* Dwelling @ https://scifi.linkpc.net/msukanen
+* LinkedIn @ https://www.linkedin.com/in/markku-sukanen-301809220/
