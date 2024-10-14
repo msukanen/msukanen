@@ -1,4 +1,4 @@
 # Sites of Appearance
-* Dwelling @ https://scifi.linkpc.net/msukanen
+* Dwelling @ https://msukanen.net
 * LinkedIn @ https://www.linkedin.com/in/markku-sukanen
 * GitHub @ https://msukanen.github.io
